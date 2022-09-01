@@ -1,0 +1,5 @@
+Credentials cache: API:5336
+        Principal: marmulle@HIVE.FI
+
+  Issued                Expires               Principal
+Aug  8 16:49:25 2022  Aug  9 02:49:25 2022  krbtgt/HIVE.FI@HIVE.FI
